@@ -1,0 +1,31 @@
+.nav-buar{
+	background-color: #0669b2;
+	margin-top: none;
+	overflow: hidden;
+}
+.nav-buar h2{
+	float: left;
+	width: 50%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 20px 50px;
+	color: #fff;
+}
+.nav-buar .lo-link{
+	padding: 20px 50px;
+	float: right;
+}
+.glyphicon-user, .lo-link a .glyphicon-log-out{
+	color: #fff;
+}
+.gu{
+	width: 100%;
+	height: 100%
+}
+.gu img{
+	width: 100%;
+	height: 100%;
+}
+.con-cos{
+	margin-top: 20px;
+}
